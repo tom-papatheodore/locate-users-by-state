@@ -1,4 +1,4 @@
-# Find User Data
+# Locate Users by State
 
 The scripts in this repo can be used to search for users located in the US.
 
